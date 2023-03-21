@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Nainwal</h1>
 <h3 align="center">Mountaineer by heart and Geophysicist by passion!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Numerical modeling of Geophysical data**
 
 - 💬 Ask me about **Geophysical Inverse theory || Electrical methods**
