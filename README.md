@@ -5,14 +5,12 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌍 Geophysicist with a focus on mineral targeting modeling using UAV-borne magnetic and radiometric data.
 - 🎓 Ph.D. candidate at Queen's University.
-- 🛠 Skilled in potential field methods, RPAS applications, and numerical methods.
+- 🛠 Skilled in potential field methods, RPAS applications, Forward and Inverse theory and numerical methods.
 - 📊 Passionate about mathematical problem solving in geosciences.
-- 🎓 Master’s degree in Earth Sciences from Queen's University, with research on groundwater modeling.
+- 🎓 Master’s degree in Earth Sciences from Indian Institute of Technology Kanpur, India, with research on groundwater modeling.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 Currently developing advanced modeling techniques for mineral exploration.
-- 🎯 In the near future, I plan to enhance UAV data processing methods.
-- 🤞 One day, I hope to contribute to significant geological discoveries using innovative geophysical techniques.
+- 🔨 Currently developing Radiometric Simulator (RadSIMU) tool to simulate radiometric data with varying sensor and platform parameters.
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
