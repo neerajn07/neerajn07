@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Neerajn07/Neerajn07/master/intro.gif" alt="👋 Hi there! I'm Neeraj Nainwal" title="👋 Hi there! I'm Neeraj Nainwal"/>](https://neerajn07.github.io/)
+[<img src="https://raw.githubusercontent.com/Neerajn07/Neerajn07/master/intro_neeraj.gif" alt="👋 Hi there! I'm Neeraj Nainwal" title="👋 Hi there! I'm Neeraj Nainwal"/>](https://neerajn07.github.io/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Neerajn07.Neerajn07&color=00cf00)
 
