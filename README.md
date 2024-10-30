@@ -8,6 +8,7 @@
 - 🛠 Skilled in potential field methods, RPAS applications, Forward and Inverse theory and numerical methods.
 - 📊 Passionate about mathematical problem solving in geosciences.
 - 🎓 Master’s degree in Earth Sciences from Indian Institute of Technology Kanpur, India, with research on groundwater modeling.
+-  Experienced in Numerical modeling of Gravity, Magnetic, Electrical Resistivity tomography, Magnetotelluric, IP, and Electromagnetic Induction
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 Currently developing Radiometric Simulator (RadSIMU) tool to simulate radiometric data with varying sensor and platform parameters.
