@@ -4,7 +4,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌍 Geophysicist with a focus on mineral targeting modeling using UAV-borne magnetic and radiometric data.
-- 🎓 Ph.D. candidate at Queen's University.
+- 🎓 Ph.D. Candidate at Queen's University.
 - 🛠 Skilled in potential field methods, RPAS applications, Forward and Inverse theory and numerical methods.
 - 📊 Passionate about mathematical problem solving in geosciences.
 - 🎓 Master’s degree in Earth Sciences from Indian Institute of Technology Kanpur, India, with research on groundwater modeling.
