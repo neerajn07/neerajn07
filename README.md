@@ -1,51 +1,86 @@
-# Hi, I'm Neeraj Nainwal 👋
+<h1 align="center">Hi, I'm Neeraj Nainwal 👋</h1>
 
-I am a PhD Candidate in Geological Sciences at Queen’s University, specializing in applied geophysics, airborne data processing, and geophysical system diagnostics. My work focuses on magnetic, gravity, and radiometric methods, with experience in UAV and airborne survey workflows, noise analysis, and quality control.
+<p align="center">
+  <strong>PhD Candidate | Applied Geophysics | Airborne & UAV Systems | Data QC & Noise Analysis</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:nainwaln@icloud.com"><img src="https://img.shields.io/badge/Email-nainwaln%40icloud.com-blue"></a>
+  <a href="https://linkedin.com/in/neerajn07"><img src="https://img.shields.io/badge/LinkedIn-neerajn07-blue?logo=linkedin"></a>
+  <a href="https://github.com/neerajn07"><img src="https://img.shields.io/badge/GitHub-neerajn07-black?logo=github"></a>
+</p>
+
+---
+
+## 🛰️ About Me
+I’m a PhD candidate at Queen’s University working on airborne radiometric, magnetic, and gravity data.  
+I build tools for UAV and airborne survey QC, system diagnostics, noise analysis, and data processing.  
+My work sits between **field operations, instrumentation**, and **geophysical data analysis**.
 
 ---
 
 ## 🎓 Education
 - **PhD, Geological Sciences** — Queen’s University (2021–Present)  
-  Focus: airborne radiometrics, UAV geophysics, magnetic and gravity data processing, noise analysis
-- **M.Tech, Geological Technology** — IIT Kanpur (2018–2020)
+- **M.Tech, Geological Technology** — IIT Kanpur (2018–2020)  
 - **B.Tech, Geoscience Engineering** — UPES Dehradun (2013–2017)
 
 ---
 
-## 🛰️ Research Interests
-- Airborne geophysics (Mag, EM, Gravity, Radiometrics)
-- UAV-based geophysical surveys and instrumentation
-- Data QC, noise identification, and system performance checks
-- Inversion and numerical modeling (gravity & magnetics)
-- Geophysical software development in Python/MATLAB
+## 🔧 Technical Skills
+- **Programming:** Python, MATLAB  
+- **Geophysics Software:** Oasis Montaj, MAG3D, QGIS, ENVI  
+- **Libraries:** SimPEG, Fatiando a Terra, SciPy  
+- **Experience:** magnetic sensors, spectrometers, UAV logs, calibration, QC, noise testing  
 
 ---
 
-## 💼 Industry & Collaboration Projects
-- **MWH Geo-Surveys (Mitacs Project)**  
-  Developed tools for QC, terrain correction, and processing of UAV magnetic and radiometric data.
-- **Pioneer Exploration**  
-  Worked on UAV radiometric survey planning and data processing for a site in Nevada, USA.
-- **Results Survey Pvt. Ltd.**  
-  Led field operations for ERT and GPR surveys, including equipment troubleshooting and QC.
+## 💼 Industry & Collaboration
+- **MWH Geo-Surveys (Mitacs):** QC tools, terrain correction, UAV magnetic & radiometric processing  
+- **Pioneer Exploration:** UAV radiometric survey planning & data processing (Nevada, USA)  
+- **Results Survey Pvt. Ltd.:** ERT/GPR field operations, equipment troubleshooting, QC  
 
 ---
 
-## 🛠️ Technical Skills
-**Programming:** Python, MATLAB  
-**Geophysics Software:** Oasis Montaj, MAG3D, QGIS, ENVI  
-**Libraries:** SimPEG, Fatiando a Terra, SciPy stack  
-**Experience with:** magnetic sensors, spectrometers, field instrumentation, UAV survey logs, calibration, QC workflows
+## 📂 Featured Projects
 
----
-
-## 📂 Selected Projects
 ### 🔹 Drone-Geophysics  
-Tools for processing, QC, and visualization of UAV magnetic and radiometric data.  
-**Repo:** https://github.com/neerajn07/Drone-Geophysics
+Tools for processing, QC, and visualization of UAV magnetic & radiometric data.  
+👉 **Repo:** https://github.com/neerajn07/Drone-Geophysics
 
 ### 🔹 RadSIMU  
-A simulator for airborne radiometric survey design and data prediction.
+Airborne radiometric simulation tool for survey design and forward modeling.
+
+### 🔹 3D Gravity & Magnetic Inversion Tools  
+Compact inversion & sensitivity workflows (Python/MATLAB).
+
+---
+
+## ✏️ Blog / Notes / Tutorials
+I occasionally write about geophysics, airborne systems, and data processing.  
+👉 **Blog:** *Coming soon*  
+(See instructions below to create your own GitHub-hosted blog.)
+
+---
+
+## 🎤 Selected Presentations
+- 3D compact inversion of gravity & magnetic data — *CGU 2024*  
+- Airborne radiometric simulator (RadSIMU) — *SEG 2024*  
+- Spectral & terrain correction in radiometrics — *AGU 2024*  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajn07&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajn07&layout=compact" height="160">
+</p>
+
+---
+
+## 📬 Contact
+📧 **Email:** nainwaln@icloud.com  
+🔗 **LinkedIn:** https://linkedin.com/in/neerajn07
+
 
 ### 🔹 3D Gravity & Magnetic Inversion Tools  
 Python/MATLAB workflows for compact inversion and sensitivity analysis.
