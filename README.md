@@ -13,8 +13,8 @@
 ---
 
 ## 🛰️ About Me
-I’m a PhD candidate at Queen’s University working on airborne radiometric, magnetic, and gravity data.  
-I build tools for UAV and airborne survey QC, system diagnostics, noise analysis, and data processing.  
+I’m a PhD candidate at Queen’s University working on UAV-borne radiometric, magnetic, and gravity data.  
+I build tools for UAV and airborne survey QC, system diagnostics, drone logs & noise analysis, and data processing.  
 My work sits between **field operations, instrumentation**, and **geophysical data analysis**.
 
 ---
@@ -30,27 +30,19 @@ My work sits between **field operations, instrumentation**, and **geophysical da
 - **Programming:** Python, MATLAB  
 - **Geophysics Software:** Oasis Montaj, MAG3D, QGIS, ENVI  
 - **Libraries:** SimPEG, Fatiando a Terra, SciPy  
-- **Experience:** magnetic sensors, spectrometers, UAV logs, calibration, QC, noise testing  
+- **Experience:** magnetic sensors, gamma-ray spectrometers, UAV logs, calibration, QC, noise testing  
 
----
-
-## 💼 Industry & Collaboration
-- **MWH Geo-Surveys (Mitacs):** QC tools, terrain correction, UAV magnetic & radiometric processing  
-- **Pioneer Exploration:** UAV radiometric survey planning & data processing (Nevada, USA)  
-- **Results Survey Pvt. Ltd.:** ERT/GPR field operations, equipment troubleshooting, QC  
-
----
 
 ## 📂 Featured Projects
 
-### 🔹 Drone-Geophysics  
+### Drone-Geophysics  
 Tools for processing, QC, and visualization of UAV magnetic & radiometric data.  
 👉 **Repo:** https://github.com/neerajn07/Drone-Geophysics
 
-### 🔹 RadSIMU  
+### RadSIMU  
 Airborne radiometric simulation tool for survey design and forward modeling.
 
-### 🔹 3D Gravity & Magnetic Inversion Tools  
+### 3D Gravity & Magnetic Inversion   
 Compact inversion & sensitivity workflows (Python/MATLAB).
 
 ---
@@ -81,16 +73,6 @@ I occasionally write about geophysics, airborne systems, and data processing.
 📧 **Email:** nainwaln@icloud.com  
 🔗 **LinkedIn:** https://linkedin.com/in/neerajn07
 
-
-### 🔹 3D Gravity & Magnetic Inversion Tools  
-Python/MATLAB workflows for compact inversion and sensitivity analysis.
-
----
-
-## 📢 Presentations (Selected)
-- Improved 3D compact inversion of gravity and magnetic data — *CGU 2024*
-- Airborne radiometric simulator for mineral targeting — *SEG 2024*
-- Spectral analysis and terrain correction improvements — *AGU 2024*
 
 ---
 
