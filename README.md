@@ -45,14 +45,16 @@ Airborne radiometric simulation tool for survey design and forward modeling.
 ### 3D Gravity & Magnetic Inversion   
 Compact inversion & sensitivity workflows (Python/MATLAB).
 
----
-
 ## ✏️ Blog / Notes / Tutorials
-I occasionally write about geophysics, airborne systems, and data processing.  
-👉 **Blog:** *Coming soon*  
-(See instructions below to create your own GitHub-hosted blog.)
+I occasionally write about geophysics, UAV surveys, airborne systems, and data processing.  
 
----
+You can read my posts here:
+
+- [UAV Radiometric QC Workflow](https://github.com/neerajn07/neerajn07/blob/main/blog/2025-11-15-uav-radiometrics.md)
+- [Magnetic Survey Noise Analysis](https://github.com/neerajn07/neerajn07/blob/main/blog/2025-10-01-magnetic-inversion.md)
+
+👉 [Visit the full blog folder](https://github.com/neerajn07/neerajn07/tree/main/blog)
+
 
 ## 🎤 Selected Presentations
 - 3D compact inversion of gravity & magnetic data — *CGU 2024*  
