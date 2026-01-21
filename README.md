@@ -10,10 +10,11 @@
 
 ---
 
-## TL;DR
-- I build **code-first** workflows for UAV/airborne geophysics: **survey planning → drone logs → QC/QA → modeling → 3D inversion**.
-- Focus: **UAV radiometrics + magnetics**, **survey optimization**, **noise/diagnostics**, **geological modeling**, **ML**.
-- **Tagline:** **No menus. No clicks. Just code.** *(I don’t rely on black-box software — I build the pipeline.)*
+## What I Do
+- I don’t use software, I code (No menus. No clicks. Just code)
+- I build workflows for UAV/airborne geophysics: **survey planning → drone logs → QC/QA → modeling → 3D constrained inversion**.
+- **UAV Radiometrics + Magnetics**, **Survey Optimization**, **noise/diagnostics**, **Geological Modeling**, **ML**, **3D Constrained Inversion**
+
 
 ---
 
