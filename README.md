@@ -26,8 +26,8 @@
 
 ### Core expertise
 - **UAV-borne radiometric + magnetic data** processing and interpretation
-- **Optimizing survey planning** (line spacing, altitude/AGL, sampling, coverage vs cost)
-- **Drone log analysis** (timing alignment, altitude variability, system health checks)
+- **Optimizing survey planning** (line spacing, altitude/AGL, sampling, coverage vs cost analysis)
+- **Drone log analysis** (timing alignment, altitude variability)
 - **QC/QA pipelines** (noise characterization, outliers, drift/stability checks)
 - **3D inversion** + sensitivity analysis (reproducible runs, diagnostics, comparisons)
 - **Geological modeling** + **machine learning** for decision support
