@@ -55,9 +55,9 @@ Public work focuses on **methods, demos, and documentation**.
 | Project | What it is | Link |
 |---|---|---|
 | **Drone-Geophysics** | Processing, QC, and visualization for UAV magnetic & radiometric data | **Repo:** https://github.com/neerajn07/Drone-Geophysics |
-| **RadSIMU** | Radiometric simulation + survey design + forward modeling | *(add link when public)* |
-| **3D Inversion (Gravity/Magnetics)** | Compact inversion + sensitivity workflows (Python/MATLAB) | *(add link when public)* |
-| **Noise + Diagnostics** | Counting statistics, outliers, drift checks, flight-log alignment | *(add link when public)* |
+| **RadSIMU** | Radiometric simulation + survey design + forward modeling | *(Private Repo)* |
+| **3D Inversion (Gravity/Magnetics)** | Compact inversion + sensitivity workflows (Python/MATLAB) | *(Private Repoc)* |
+| **Noise + Diagnostics** | Counting statistics, outliers, drift checks, flight-log alignment | *(Private Repo)* |
 
 ---
 
