@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajn07-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajn07)
 [![GitHub](https://img.shields.io/badge/GitHub-neerajn07-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajn07)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=UAV-borne+Radiometrics+%7C+Magnetics+%7C+Survey+Planning+Optimization;Drone+Log+Analysis+%7C+QC%2FQA+%7C+Noise+Diagnostics;3D+Inversion+%7C+Geological+Modeling+%7C+ML+Workflows)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=UAV-borne+Radiometrics+%7C+Magnetics+%7C+Survey+Planning+Optimization;Drone+Log+Analysis+%7C+QC%2FQA+%7C+Noise+Diagnostics;3D+Inversion+%7C+Geological+Modeling+%7C+Machine+Learning)
 
 ---
 
