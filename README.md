@@ -10,34 +10,31 @@
 
 ---
 
-## What I Do
-- I don’t use software, I code (No menus. No clicks. Just code)
-- I build workflows for UAV/airborne geophysics: **survey planning → drone logs → QC/QA → modeling → 3D constrained inversion**.
-- **UAV Radiometrics + Magnetics**, **Survey Optimization**, **noise/diagnostics**, **Geological Modeling**, **ML**, **3D Constrained Inversion**
+## 🛰️ UAV Geophysics: From Flight to Interpretation
+**"I don’t use software, I code."** I build programmatic, reproducible pipelines that replace manual "point-and-click" workflows.
 
+### Core Expertise & Workflow
+* **Survey Optimization:** Survey planning for Radiometrics & Magnetics (AGL altitude, line spacing, and coverage-vs-cost analysis).
+* **Data Integrity:** Drone log synchronization, timing alignment, and altitude variability correction.
+* **QC/QA Pipelines:** Automated noise characterization, outlier detection, and drift/stability checks.
+* **3D Constrained Inversion:** Sensitivity analysis, reproducible modeling, and diagnostic comparisons using custom and open-source codes.
+* **Geological Modeling:** Automated lithological mapping using UAV-borne geophysical data.
 
 ---
 
-## What I do (end-to-end)
+### 🛠️ Toolbox
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, MATLAB |
+| **Geophysics** | SimPEG, Fatiando a Terra, MAG3D |
+| **Analysis** | SciPy, NumPy, Pandas, Scikit-learn |
+| **GIS / Industry** | QGIS, Oasis Montaj, ENVI |
 
+---
+
+### 🚀 End-to-End Pipeline
 ```text
-[Survey Planning] -> [Flight Logs] -> [QC/QA + Noise] -> [Forward Modeling] -> [3D Inversion] -> [Geological Interpretation]
-```
-
-### Core expertise
-- **UAV-borne radiometric + magnetic data** processing and interpretation
-- **Optimizing survey planning** (line spacing, altitude/AGL, sampling, coverage vs cost analysis)
-- **Drone log analysis** (timing alignment, altitude variability)
-- **QC/QA pipelines** (noise characterization, outliers, drift/stability checks)
-- **3D inversion** + sensitivity analysis (reproducible runs, diagnostics, comparisons)
-- **Geological modeling** + **machine learning** for decision support
-
----
-
-## Toolbox
-**Languages:** Python, MATLAB  
-**Libraries:** SimPEG, Fatiando a Terra, SciPy stack  
-**GIS/Geo tools:** QGIS, Oasis Montaj, MAG3D, ENVI  
+Survey Planning ➔ Drone Logs ➔ QC/QA + Noise ➔ Forward Modeling ➔ 3D Inversion ➔ Interpretation
 
 ![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=ffd43b)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=flat&logo=mathworks&logoColor=white)
@@ -69,7 +66,7 @@ Public work focuses on **methods, demos, and documentation**.
 
 ---
 
-## Selected talks / posters
+## Selected talks/posters
 - **3D compact inversion of gravity & magnetic data** — *CGU 2024*
 - **RadSIMU: airborne radiometric simulator** — *SEG 2024*
 - **Spectral & terrain correction in radiometrics** — *AGU 2024*
