@@ -6,89 +6,58 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajn07-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajn07)
 [![GitHub](https://img.shields.io/badge/GitHub-neerajn07-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajn07)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=UAV-borne+Radiometrics+%7C+Magnetics+%7C+Survey+Planning+Optimization;Drone+Log+Analysis+%7C+QC%2FQA+%7C+Noise+Diagnostics;3D+Inversion+%7C+Geological+Modeling+%7C+Machine+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=No+menus.+No+clicks.+Just+code.;Automated+UAV+Geophysics+Pipelines;3D+Constrained+Inversion+%7C+ML)
 
 ---
 
-## 🛰️ UAV Geophysics: From Flight to Interpretation
-**"I don’t use software, I code."** I build programmatic, reproducible pipelines that replace manual "point-and-click" workflows.
+## 🛰️ Expertise: Code-Driven Geophysics
+I develop programmatic, reproducible workflows that replace manual "point-and-click" software with scalable code. My focus is the end-to-end automation of UAV-borne geophysical data.
 
-### Core Expertise & Workflow
-* **Survey Optimization:** Survey planning for Radiometrics & Magnetics (AGL altitude, line spacing, and coverage-vs-cost analysis).
-* **Data Integrity:** Drone log synchronization, timing alignment, and altitude variability correction.
-* **QC/QA Pipelines:** Automated noise characterization, outlier detection, and drift/stability checks.
-* **3D Constrained Inversion:** Sensitivity analysis, reproducible modeling, and diagnostic comparisons using custom and open-source codes.
-* **Geological Modeling:** Automated lithological mapping using UAV-borne geophysical data.
+### 🛠️ Technical Workflow
+* **Survey Optimization:** Precision planning for Radiometrics/Magnetics (AGL, line spacing, coverage-vs-cost).
+* **Data Integrity:** Automated drone log synchronization and timing-alignment diagnostics.
+* **QC/QA Pipelines:** Quantitative noise characterization, outlier detection, and drift stability.
+* **Modeling & Inversion:** 3D constrained inversion and sensitivity analysis using **SimPEG** and custom solvers.
+* **ML Integration:** Automated lithological mapping and decision support via machine learning.
 
----
 
-### 🛠️ Toolbox
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, MATLAB |
-| **Geophysics** | SimPEG, Fatiando a Terra, MAG3D |
-| **Analysis** | SciPy, NumPy, Pandas, Scikit-learn |
-| **GIS / Industry** | QGIS, Oasis Montaj, ENVI |
 
 ---
 
-### 🚀 End-to-End Pipeline
-```text
-Survey Planning ➔ Drone Logs ➔ QC/QA + Noise ➔ Forward Modeling ➔ 3D Inversion ➔ Interpretation
+## 🧰 Toolbox
+**Languages & Core:** ![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=ffd43b) ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=flat&logo=mathworks&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-111111?style=flat&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=ffd43b)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=flat&logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-111111?style=flat&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-111111?style=flat&logo=qgis&logoColor=white)
+**Domain Specific:** `SimPEG` • `Fatiando a Terra` • `MAG3D` • `Oasis Montaj` • `QGIS` • `ENVI`
 
 ---
 
-## Featured projects
-Most of my production repositories are **private** (data constraints, active research, or industry-style work).  
-Public work focuses on **methods, demos, and documentation**.
+## 🚀 Selected Projects
+*Most production-level repositories are private due to data constraints. Public work focuses on methodology and demos.*
 
-| Project | What it is | Link |
-|---|---|---|
-| **Drone-Geophysics** | Processing, QC, and visualization for UAV magnetic & radiometric data | **Repo:** https://github.com/neerajn07/Drone-Geophysics |
-| **RadSIMU** | Radiometric simulation + survey design + forward modeling | *(Private Repo)* |
-| **3D Inversion (Gravity/Magnetics)** | Compact inversion + sensitivity workflows (Python/MATLAB) | *(Private Repo)* |
-| **Noise + Diagnostics** | Counting statistics, outliers, drift checks, flight-log alignment | *(Private Repo)* |
-
----
-
-## Notes / tutorials
-- [UAV Radiometric QC Workflow](https://github.com/neerajn07/neerajn07/blob/main/blog/2025-11-15-uav-radiometrics.md)
-- [Magnetic Survey Noise Analysis](https://github.com/neerajn07/neerajn07/blob/main/blog/2025-10-01-magnetic-inversion.md)
-
-**More:** https://github.com/neerajn07/neerajn07/tree/main/blog
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| **[Drone-Geophysics](https://github.com/neerajn07/Drone-Geophysics)** | Processing & Viz for UAV Mag/Rad data | **Public** |
+| **RadSIMU** | Radiometric simulation & survey design | *Private* |
+| **3D Inversion Workflows** | Gravity/Mag compact inversion (Python/MATLAB) | *Private* |
+| **Noise Diagnostics** | Counting statistics & flight-log alignment | *Private* |
 
 ---
 
-## Selected talks/posters
-- **3D compact inversion of gravity & magnetic data** — *CGU 2024*
-- **RadSIMU: airborne radiometric simulator** — *SEG 2024*
-- **Spectral & terrain correction in radiometrics** — *AGU 2024*
+## 🎓 Education & Research
+* **PhD, Geological Sciences** | Queen’s University (2021–Present)
+* **M.Tech, Geological Technology** | IIT Kanpur (2018–2020)
+* **B.Tech, Geoscience Engineering** | UPES Dehradun (2013–2017)
+
+### 📢 Recent Talks
+* **CGU 2024:** 3D compact inversion of gravity & magnetic data.
+* **SEG 2024:** RadSIMU: Airborne radiometric simulator.
+* **AGU 2024:** Spectral & terrain correction in radiometrics.
 
 ---
 
-## Education
-- **PhD, Geological Sciences** — Queen’s University (2021–Present)  
-- **M.Tech, Geological Technology** — IIT Kanpur (2018–2020)  
-- **B.Tech, Geoscience Engineering** — UPES Dehradun (2013–2017)
-
----
-
-## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=neerajn07&show_icons=true&theme=tokyonight)
+## 📊 GitHub Performance
+![Stats](https://github-readme-stats.vercel.app/api?username=neerajn07&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajn07&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=neerajn07&theme=tokyonight&hide_border=true)
 
 ---
-
-## Contact
-- **Email:** nainwaln@icloud.com  
-- **LinkedIn:** https://linkedin.com/in/neerajn07  
-
-_Last updated: 2026-01_
+**Contact:** [nainwaln@icloud.com](mailto:nainwaln@icloud.com) | *Last updated: 2026-01*
