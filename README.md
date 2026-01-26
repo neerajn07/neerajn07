@@ -1,12 +1,12 @@
 # Neeraj Nainwal
 
-`UAV Geophysics · 3D Inversion · Machine Learning · Geological Modeling`
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=No+menus.+No+clicks.+Just+code.;UAV+Geophysics+%C2%B7+3D+Inversion+%C2%B7+Machine+Learning+%C2%B7+Geological+Modeling)
 [![Email](https://img.shields.io/badge/Email-nainwaln%40icloud.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainwaln@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajn07-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajn07)
 [![GitHub](https://img.shields.io/badge/GitHub-neerajn07-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajn07)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=No+menus.+No+clicks.+Just+code.;UAV+Geophysics+%C2%B7+3D+Inversion+%C2%B7+Machine+Learning+%C2%B7+Geological+Modeling)
+
 
 ---
 
