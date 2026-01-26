@@ -6,11 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajn07-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajn07)
 [![GitHub](https://img.shields.io/badge/GitHub-neerajn07-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajn07)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=No+menus.+No+clicks.+Just+code.;Automated+UAV+Geophysics+Pipelines;3D+Constrained+Inversion+%7C+ML)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=No+menus.+No+clicks.+Just+code.;UAV+Geophysics;3D+Constrained+Inversion+%7C+ML)
 
 ---
 
-## 🛰️ Expertise: Code-Driven Geophysics
+## 🛰️ What I do
 I develop programmatic, reproducible workflows that replace manual "point-and-click" software with scalable code. My focus is the end-to-end automation of UAV-borne geophysical data.
 
 ### 🛠️ Technical Workflow
