@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajn07-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajn07)
 [![GitHub](https://img.shields.io/badge/GitHub-neerajn07-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajn07)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=Geophysics+with+code;UAV+Radiometrics+%C2%B7+Inversion+%C2%B7+Modeling)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=980&lines=Geophysics+with+code;UAV+Radiometrics/Magnetic+%C2%B7+Inversion+%C2%B7+Modeling)
 
 ---
 
